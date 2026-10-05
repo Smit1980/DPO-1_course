@@ -7,7 +7,7 @@
 |---|---|---|
 | 1 | https://smit1980.github.io/PDO-1_1Urok/web/kak_ustroen_ii.html#team | Конспект: https://smit1980.github.io/DPO-1_1konsp/web/konspekt_urok1.html |
 | 2 | https://smit1980.github.io/DPO-1_praktikum-1-2/index.html | Учебные файлы: https://github.com/Smit1980/DPO-1_praktikum-1-2/tree/main/data |
-| 3 | https://max.ru/c/-78812663417358/AaCqpbtpEmQ | Материалы размещены в MAX |
+| 3 | https://smit1980.github.io/DPO-1_3/web/urok3_dannye_i_ii.html | Презентационная страница урока |
 | 4, часть 1 | https://smit1980.github.io/DPO-1_4/web/urok4_1_podgotovka_informacii.html | Конспект: https://smit1980.github.io/DPO-1_konspekt/web/konspekt_urok4.html |
 | 4, часть 2 | https://max.ru/c/-78812663417358/AaDQY5kdC8s | Материалы размещены в MAX |
 | 5 | https://smit1980.github.io/DPO-1_4/web/urok5_socialnaya_inzheneriya.html | Конспект: https://smit1980.github.io/DPO-1_konspekt/web/konspekt_urok5.html |
