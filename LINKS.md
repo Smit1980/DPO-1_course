@@ -11,7 +11,7 @@
 | 4, часть 1 | https://smit1980.github.io/DPO-1_4/web/urok4_1_podgotovka_informacii.html | Конспект: https://smit1980.github.io/DPO-1_konspekt/web/konspekt_urok4.html |
 | 4, часть 2 | https://max.ru/c/-78812663417358/AaDQY5kdC8s | Материалы размещены в MAX |
 | 5 | https://smit1980.github.io/DPO-1_4/web/urok5_socialnaya_inzheneriya.html | Конспект: https://smit1980.github.io/DPO-1_konspekt/web/konspekt_urok5.html |
-| 6 | https://elenachepik.github.io/prompt-lecture1 | — |
+| 6, часть 1 | https://elenachepik.github.io/prompt-lecture1 | — |`r`n| 6, часть 2 | https://elenachepik.github.io/prompt-lecture2/#s1 | Методы повышения качества результатов ИИ |
 | 7, часть 1 | https://smit1980.github.io/DPO-1_7/web/first_pair_val.html | Раздатка: https://github.com/Smit1980/DPO-1_7/raw/refs/heads/main/data/razdatka_pair1.zip |
 | 7, часть 2 | https://smit1980.github.io/DPO-1_4/lesson7_pair2/ | — |
 | 8 | Будет добавлен после загрузки финальной версии | — |
