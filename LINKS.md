@@ -1,28 +1,17 @@
-# Передача проекта коллегам
+# Ссылки ДПО-1
 
-Проверено 5 октября 2026 года.
+- Каталог для слушателей: https://smit1980.github.io/DPO-1_course/
+- Конспекты преподавателя: https://smit1980.github.io/DPO-1_konspekt/
 
-- Общая страница курса: https://smit1980.github.io/DPO-1_course/
-- Репозиторий общей страницы: https://github.com/Smit1980/DPO-1_course
-- Общая страница конспектов: https://smit1980.github.io/DPO-1_konspekt/
-- Репозиторий конспектов: https://github.com/Smit1980/DPO-1_konspekt
-
-| Материалы | Репозиторий | Страница |
+| Урок | Страница занятия | Дополнительно |
 |---|---|---|
-| Основы ИИ | https://github.com/Smit1980/PDO-1_1Urok | https://smit1980.github.io/PDO-1_1Urok/web/kak_ustroen_ii.html |
-| Конспект урока 1 | https://github.com/Smit1980/DPO-1_1konsp | https://smit1980.github.io/DPO-1_1konsp/ |
-| Практикумы 1–2 | https://github.com/Smit1980/DPO-1_praktikum-1-2 | https://smit1980.github.io/DPO-1_praktikum-1-2/ |
-| Урок 3 | https://github.com/Smit1980/DPO-1_3 | https://smit1980.github.io/DPO-1_3/web/urok3_dannye_i_ii.html |
-| Уроки 4–5 и мультимодальная пара | https://github.com/Smit1980/DPO-1_4 | https://smit1980.github.io/DPO-1_4/ |
-| Практикумы по промптам | https://github.com/Smit1980/DPO-1_praktikum-5-6 | https://smit1980.github.io/DPO-1_praktikum-5-6/ |
-| Кейс «Вал» | https://github.com/Smit1980/DPO-1_7 | https://smit1980.github.io/DPO-1_7/web/first_pair_val.html |
-| Рабочая версия урока 8 | https://github.com/Smit1980/DPO-1_8 | https://smit1980.github.io/DPO-1_8/ |
-| Конспекты | https://github.com/Smit1980/DPO-1_konspekt | https://smit1980.github.io/DPO-1_konspekt/ |
-| Общий каталог | https://github.com/Smit1980/DPO-1_course | https://smit1980.github.io/DPO-1_course/ |
-
-## Лекции коллеги
-
-- Часть 1: https://elenachepik.github.io/prompt-lecture1/ — https://github.com/ElenaChepik/prompt-lecture1
-- Часть 2: https://elenachepik.github.io/prompt-lecture2/ — https://github.com/ElenaChepik/prompt-lecture2
-
-Эти репозитории принадлежат другому владельцу; их настройки доступа не изменялись.
+| 1 | https://smit1980.github.io/PDO-1_1Urok/web/kak_ustroen_ii.html#team | Конспект: https://smit1980.github.io/DPO-1_1konsp/web/konspekt_urok1.html |
+| 2 | https://smit1980.github.io/DPO-1_praktikum-1-2/index.html | Учебные файлы: https://github.com/Smit1980/DPO-1_praktikum-1-2/tree/main/data |
+| 3 | https://max.ru/c/-78812663417358/AaCqpbtpEmQ | Материалы размещены в MAX |
+| 4, часть 1 | https://smit1980.github.io/DPO-1_4/web/urok4_1_podgotovka_informacii.html | Конспект: https://smit1980.github.io/DPO-1_konspekt/web/konspekt_urok4.html |
+| 4, часть 2 | https://max.ru/c/-78812663417358/AaDQY5kdC8s | Материалы размещены в MAX |
+| 5 | https://smit1980.github.io/DPO-1_4/web/urok5_socialnaya_inzheneriya.html | Конспект: https://smit1980.github.io/DPO-1_konspekt/web/konspekt_urok5.html |
+| 6 | https://elenachepik.github.io/prompt-lecture1 | — |
+| 7, часть 1 | https://smit1980.github.io/DPO-1_7/web/first_pair_val.html | Раздатка: https://github.com/Smit1980/DPO-1_7/raw/refs/heads/main/data/razdatka_pair1.zip |
+| 7, часть 2 | https://smit1980.github.io/DPO-1_4/lesson7_pair2/ | — |
+| 8 | Будет добавлен после загрузки финальной версии | — |
