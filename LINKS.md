@@ -14,4 +14,5 @@
 | 6, часть 1 | https://elenachepik.github.io/prompt-lecture1 | — |`r`n| 6, часть 2 | https://elenachepik.github.io/prompt-lecture2/#s1 | Методы повышения качества результатов ИИ |
 | 7, часть 1 | https://smit1980.github.io/DPO-1_7/web/first_pair_val.html | Раздатка: https://github.com/Smit1980/DPO-1_7/raw/refs/heads/main/data/razdatka_pair1.zip |
 | 7, часть 2 | https://smit1980.github.io/DPO-1_4/lesson7_pair2/ | — |
-| 8 | Будет добавлен после загрузки финальной версии | — |
+| 8, презентация 1 | https://elenachepik.github.io/Elena_neyroseti/ | Путь развития навыков в AI |
+| 8, презентация 2 | https://elenachepik.github.io/presentation/ | Оценка качества результатов применения ИИ |
